@@ -27,5 +27,8 @@ func main() {
 
 	// setDream()
 
-	interface_test()
+	// interface_test()
+	// interface_test2()
+	// empty_interface()
+	error_test()
 }
