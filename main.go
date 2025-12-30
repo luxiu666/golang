@@ -25,5 +25,7 @@ func main() {
 
 	// struct2json()
 
-	setDream()
+	// setDream()
+
+	interface_test()
 }
