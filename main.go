@@ -30,5 +30,10 @@ func main() {
 	// interface_test()
 	// interface_test2()
 	// empty_interface()
-	error_test()
+	// error_test()
+	// routine_test()
+	// test_routines()
+	// test_channel()
+	// test_mutex()
+
 }
