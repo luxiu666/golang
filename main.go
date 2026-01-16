@@ -1,6 +1,9 @@
 package main
 
 func main() {
+	testLRUCache()
+
+	// 其他测试代码已注释
 	// fmt.Println("变量类型测试")
 	// variables()
 	// fmt.Println("数据类型测试")
